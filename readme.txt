@@ -1,6 +1,6 @@
 === Hercules Edit Most Recent Post ===
 Contributors: toddnestor
-Tags: wp-admin,menu,posts
+Tags: wp-admin,menu,posts,hercules
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0
